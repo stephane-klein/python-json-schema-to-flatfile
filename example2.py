@@ -1,4 +1,4 @@
-# Multiline type CSV example
+# Multi sections CSV flat file example
 
 import io
 import csv
