@@ -10,7 +10,7 @@ schema = {
     "csvTotalColumnNumber": 30,
     "properties": {
         "Type de message": {
-            "type":"string",
+            "type": "string",
             "maxLength": 3,
             "csvColumn": 1
         },
