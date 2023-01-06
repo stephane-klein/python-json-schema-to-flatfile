@@ -1,4 +1,4 @@
-# Mono section CSV flat file
+# Mono section CSV flat file parser
 import io
 import csv
 import pprint
